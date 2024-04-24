@@ -1,6 +1,6 @@
 # agency
 
-artificial influencer agency
+virtual influencer agency (running locally with ollama & stable diffusion)
 
 # proof of concept
 
